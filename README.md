@@ -1,4 +1,4 @@
-# node-todo-cicd
+# The Bitwise Calculation CI-CD
 
 Run these commands:
 
