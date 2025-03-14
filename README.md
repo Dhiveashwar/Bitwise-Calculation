@@ -3,15 +3,14 @@
 Run these commands:
 
 
-`sudo apt install nodejs`
+`sudo apt update`
 
+`sudo apt install python3 python3-pip -y`
 
-`sudo apt install npm`
+`python3 --version`
 
+`pip install uvicorn`
 
-`npm install`
+`uvicorn main:app "the port details here"`
 
-or Run by docker compose
-
-test
 
